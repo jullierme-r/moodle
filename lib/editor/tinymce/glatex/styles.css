@@ -1,0 +1,23 @@
+/**
+ * glatex styles
+ */
+
+#glatex_input {
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 250px;
+    font-family: monospace !important;
+    font-size: 16px;
+}
+
+.glatex-preview {
+    padding: 7px 7px 9px 7px;
+    background: #e0e0e0;
+    border: 1px dotted #808080;
+    border-radius: 5px;
+}
+
+#insert, #cancel {
+    color: #000 !important;
+    font-size: 13px;
+}
